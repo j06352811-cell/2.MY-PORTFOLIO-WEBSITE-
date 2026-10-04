@@ -6,6 +6,8 @@
 
 An approachable SaaS analytics workspace for subscription health, customer growth, and the numbers behind a growing product.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Orbit-557B3D?style=for-the-badge&logo=vercel&logoColor=white)](https://2-my-portfolio-website.vercel.app)
+
 ![React](https://img.shields.io/badge/React-19-20261E?style=flat-square&logo=react&logoColor=B7E56B)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-20261E?style=flat-square&logo=typescript&logoColor=79B9B1)
 ![Vite](https://img.shields.io/badge/Vite-6-20261E?style=flat-square&logo=vite&logoColor=F2A78D)
@@ -75,4 +77,6 @@ src/
 
 ## Data & Demo
 
-This is a frontend portfolio project using illustrative local data. It is not connected to a billing provider, production database, or live customer records. A public live demo has not been deployed yet.
+**Live demo:** [2-my-portfolio-website.vercel.app](https://2-my-portfolio-website.vercel.app)
+
+This is a frontend portfolio project using illustrative local data. It is not connected to a billing provider, production database, or live customer records.
